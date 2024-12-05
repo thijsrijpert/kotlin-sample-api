@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS employees (
+    name VARCHAR(60)  PRIMARY KEY
+);
